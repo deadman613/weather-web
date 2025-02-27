@@ -1,0 +1,8 @@
+.piccontainer
+{
+    background: url("./image/image.jpg");
+    height: 100vh;
+    width: auto;
+    background-size:cover ;
+  
+}
