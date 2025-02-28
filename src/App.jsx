@@ -11,11 +11,12 @@ function App() {
     <>
      
       <section className='piccontainer'>
-     
-      <NavBar />
-      <div className='bg-black align-middle h-10 w-10 flex justify-center'>
+    
+      <NavBar/>
+      
+      
 
-      </div>
+      
       
 
       </section>
