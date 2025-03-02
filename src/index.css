@@ -12,12 +12,19 @@
 .showcase
 {
     background-color: rgba(0, 0, 0, 0.342);
-    height: 90px;
+   
 }
 #showcase1
 {
     background-color: rgba(255, 166, 0, 0.329);
     border-radius: 10px;
 
+}
+#cloudimg1 ,#cloudimg2 ,#cloudimg3, #cloudimg4 ,#cloudimg5 
+{
+    height: 30px;
+    width: 60px;
+    border: none;
+    
 }
 
